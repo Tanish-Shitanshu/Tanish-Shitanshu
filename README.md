@@ -71,7 +71,7 @@ I'm a **3rd Year B.Tech CSE student at Shiv Nadar University** (Delhi NCR), curr
 | [**Flight Recovery Assistant**](https://github.com/Tanish-Shitanshu/Smart-Flight-Disruption-Recovery-Assistant) | Rule-based recovery engine for cancelled flights — multi-factor ranking, OpenSky API, offline-first | Python, SQLite, Flask, OpenSky API |
 | [**Forensic CoC System**](https://github.com/Tanish-Shitanshu/forensic-coc-system) | Cryptographically linked chain of custody ledger with SHA-256 tamper detection for court admissibility | Python, Streamlit, MySQL, bcrypt |
 | [**PoolMate**](https://github.com/Tanish-Shitanshu/carpool) | Intelligent carpooling with Women Safety Mode, verified-professional travel, and Vibe Match pairing | Python, Multi-layer Auth |
-| [**Annadata FarmVeda**](https://github.com/Tanish-Shitanshu/Annadata-FarmVeda) | Human-in-the-loop AI farming companion — crop recommendation, weather advisory, climate risk/yield estimates, crop health scanner, AI chat, govt scheme matching | Python, Streamlit, Gemini AI |
+| [**Annadata FarmVeda**](https://github.com/Tanish-Shitanshu/Annadata-FarmVeda) *(In Progress)* | Human-in-the-loop AI farming companion — crop recommendation, weather advisory, climate risk/yield estimates, crop health scanner, AI chat, govt scheme matching | Python, Streamlit, Gemini AI |
 
 ---
 
