@@ -49,12 +49,12 @@ I'm a **3rd Year B.Tech CSE student at Shiv Nadar University** (Delhi NCR), rece
 | Project | What it does | Stack |
 |---|---|---|
 | [**Quantum Shield**](https://github.com/Tanish-Shitanshu/Quantum-Proof-Systems-Scanner-PNB) | Enterprise post-quantum security scanner — TLS inspection, 100-pt PQC scoring, CVE analysis, PDF reports | React 19, FastAPI, Python, Gemini AI |
-| [**Vishwas**](https://github.com/Tanish-Shitanshu/sih2026-forecast-bust-detection) | AI system for NCMRWF that flags when a weather forecast is likely to fail badly (a "forecast bust") — LightGBM on historical reforecast data across 33 IMD subdivisions, 0.541 PR-AUC vs a 0.452 forecast-only baseline | Python, LightGBM, SHAP, FastAPI |
-| [**MolecureAI**](https://github.com/Tanish-Shitanshu/antibiotic-ai) | Predicts antibacterial activity of compounds against 20 pathogens (MRSA, E. coli, M. tuberculosis) | React, Flask, scikit-learn, RDKit, ChEMBL |
+| [**Vishwas**](https://github.com/Tanish-Shitanshu/sih2026-forecast-bust-detection) | AI system for NCMRWF (SIH 2026, PS 26079) that flags when a weather forecast is likely to fail badly (a "forecast bust") — LightGBM on historical reforecast data across 33 IMD subdivisions, 0.541 PR-AUC vs a 0.452 forecast-only baseline, catching 74.8% of large-magnitude misses | Python, LightGBM, SHAP, FastAPI |
+| [**MolecureAI**](https://github.com/Tanish-Shitanshu/antibiotic-ai) | Predicts antibacterial activity of compounds against 20 pathogens (MRSA, E. coli, M. tuberculosis) across four screening modes — Random Forest classifiers trained on 29,000 ChEMBL records | React, Flask, scikit-learn, RDKit, ChEMBL |
 | [**Flight Recovery Assistant**](https://github.com/Tanish-Shitanshu/Smart-Flight-Disruption-Recovery-Assistant) | Rule-based recovery engine for cancelled flights — multi-factor ranking, OpenSky API, offline-first | Python, SQLite, Flask, OpenSky API |
 | [**Forensic CoC System**](https://github.com/Tanish-Shitanshu/forensic-coc-system) | Cryptographically linked chain of custody ledger with SHA-256 tamper detection for court admissibility | Python, Streamlit, MySQL, bcrypt |
 | [**PoolMate**](https://github.com/Tanish-Shitanshu/carpool) | Intelligent carpooling with Women Safety Mode, verified-professional travel, and Vibe Match pairing | Python, Multi-layer Auth |
-| [**Annadata FarmVeda**](https://github.com/Tanish-Shitanshu/Annadata-FarmVeda) *(In Progress)* | Human-in-the-loop AI farming companion — crop recommendation, weather advisory, climate risk/yield estimates, crop health scanner, AI chat, govt scheme matching | Python, Streamlit, Gemini AI |
+| [**Annadata FarmVeda**](https://github.com/Tanish-Shitanshu/Annadata-FarmVeda) *(In Progress)* | Human-in-the-loop AI farming companion — turns live weather data into sowing, irrigation and risk guidance; crop recommendation, climate risk/yield estimates, crop health scanner, AI chat, govt scheme matching, 13-language interface | Python, Streamlit, Gemini AI, SQLite |
 
 ---
 
