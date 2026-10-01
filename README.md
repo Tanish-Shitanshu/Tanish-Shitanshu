@@ -14,10 +14,10 @@
 
 ### 👨‍💻 About Me
 
-I'm a **3rd Year B.Tech CSE student at Shiv Nadar University** (Delhi NCR), currently interning as a **Digital Engineering Intern at Airtel Xtelify (Airtel Digital)**. I build across the full stack — from React frontends and FastAPI backends to ML pipelines and GenAI-powered systems.
+I'm a **3rd Year B.Tech CSE student at Shiv Nadar University** (Delhi NCR), recently completed an internship as a **Digital Engineering Intern at Airtel Xtelify (Airtel Digital)**. I build across the full stack — from React frontends and FastAPI backends to ML pipelines and GenAI-powered systems.
 
 - 🎓 **SNU** — B.Tech CSE | CGPA: **9.14** &nbsp;|&nbsp; Previously **MUJ** — CGPA: **9.92**
-- 💼 **Intern @ Airtel Xtelify** — Java, Spring Boot, REST APIs, Git workflows *(Ongoing)*
+- 💼 **Intern @ Airtel Xtelify** — Java, Spring Boot, REST APIs, Git workflows *(Completed)*
 - 🌏 Selected for **La Trobe × Cisco AI City Modernisation Innovation Sprint** *(Ongoing)*
 - 📚 Pursuing **IIT Madras B.S. in Data Science & Applications** (UGC-approved) alongside B.Tech
 - 🌱 Currently deepening: **AWS Cloud Architecting**, Spring Boot backend, agentic AI systems
@@ -60,12 +60,15 @@ I'm a **3rd Year B.Tech CSE student at Shiv Nadar University** (Delhi NCR), curr
 
 ### 🏆 Achievements
 
-- 🥇 **Meta PyTorch OpenEnv Hackathon × Scaler** — Grand Finale (Bangalore) | Top 800 of **31,000+ teams** nationwide
-- 🔐 **Top 10** — Punjab National Bank Cyber Security Hackathon 2026 *(Ongoing)*
-- 🌏 **La Trobe × Cisco AI City Modernisation Innovation Sprint** — Selected *(Ongoing)*
+- 🌏 **Top 10 nationally** — La Trobe × Cisco AI City Modernisation Innovation Sprint 2026 (Australian High Commission)
+- 🥇 **Finalist** — Meta PyTorch OpenEnv Hackathon × Scaler 2026 — Grand Finale (Bangalore) | Top 800 of **31,000+ teams** nationwide
+- 🏅 **Top 10** — Paradox Masters' Union Hackathon, Shiv Nadar Institution of Eminence
+- 🔐 **Top 10** — Punjab National Bank Cyber Security Hackathon 2026
+- 🚀 **Top 15 of 200+** — GoDaddy Airo Buildathon 2026
+- 🏁 **Top 30 of 500+ teams** (1,500+ participants) — GrandPrix 2026 Hackathon; finals held at Paytm office
+- 🤖 **Top 700** — Amazon ML Challenge 2026 *(Ongoing)*
 - 🥈 **2nd Rank (YouTube Star Award)** & **Top 100 in India** — SBI College Youth Ideathon, IIT Delhi 2025
-- 🏅 **Top 10** — Masters' Union Paradox Hackathon, Shiv Nadar Institution of Eminence
-- 🎓 **Dean's Recognition** — 9.83 GPA (Sem 1) & **10.0 GPA** (Sem 2), Manipal University Jaipur
+- 🎓 **2× Dean's List** — 9.83 GPA (Sem 1) & **10.0 GPA** (Sem 2), Manipal University Jaipur
 
 ---
 
