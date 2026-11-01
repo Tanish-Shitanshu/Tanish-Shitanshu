@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tanish+Shitanshu+%F0%9F%91%8B;Full+Stack+%2B+ML+%2B+GenAI+Builder;Hackathon+Finalist+%7C;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tanish+Shitanshu+%F0%9F%91%8B;Data+%2B+ML+%2B+Full+Stack+Builder;Hackathon+Finalist;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -14,13 +14,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a **3rd Year B.Tech CSE student at Shiv Nadar University** (Delhi NCR), recently completed an internship as a **Digital Engineering Intern at Airtel Xtelify (Airtel Digital)**. I build across the full stack — from React frontends and FastAPI backends to ML pipelines and GenAI-powered systems.
+I'm a **3rd Year B.Tech CSE student at Shiv Nadar University** (Delhi NCR), recently completed an internship as a **Digital Engineering Intern at Airtel Xtelify**. I build data and ML pipelines, risk and analytics dashboards, and full-stack systems, from pandas and SQL to FastAPI backends and React frontends.
 
 - 🎓 **SNU** — B.Tech CSE | CGPA: **9.14** &nbsp;|&nbsp; Previously **MUJ** — CGPA: **9.92**
 - 💼 **Intern @ Airtel Xtelify** — Java, Spring Boot, REST APIs, Git workflows *(Completed)*
-- 🌏 Selected for **La Trobe × Cisco AI City Modernisation Innovation Sprint** *(Ongoing)*
+- 📈 Building **CrudeCurve**: a WTI futures risk dashboard (term structure, historical-simulation VaR, SQL analysis, Excel reports)
 - 📚 Pursuing **IIT Madras B.S. in Data Science & Applications** (UGC-approved) alongside B.Tech
-- 🌱 Currently deepening: **AWS Cloud Architecting**, Spring Boot backend, agentic AI systems
+- 🌱 Currently deepening: **AWS Cloud Architecting**, Spring Boot backend, agentic AI systems, data and risk analytics (SQL, pandas)
 
 ---
 
@@ -29,6 +29,10 @@ I'm a **3rd Year B.Tech CSE student at Shiv Nadar University** (Delhi NCR), rece
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
+
+**Data & Analytics**
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
 **AI / ML**
 
@@ -48,27 +52,32 @@ I'm a **3rd Year B.Tech CSE student at Shiv Nadar University** (Delhi NCR), rece
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Quantum Shield**](https://github.com/Tanish-Shitanshu/Quantum-Proof-Systems-Scanner-PNB) | Enterprise post-quantum security scanner — TLS inspection, 100-pt PQC scoring, CVE analysis, PDF reports | React 19, FastAPI, Python, Gemini AI |
+| [**CrudeCurve**](https://github.com/Tanish-Shitanshu/crudecurve) | WTI crude futures risk dashboard: validates Yahoo Finance contract data against business rules, stores it in SQLite, classifies contango/backwardation, computes historical-simulation VaR, runs SQL window-function analysis and exports Excel reports; pytest suite with GitHub Actions CI | Python, pandas, NumPy, SQLite, Plotly, Streamlit |
+| [**Darby**](https://github.com/Tanish-Shitanshu/darby) | AI browser agent that treats its own "done" as unproven: every plan step has an evidence contract checked by an independent verifier, with fail-closed policy gates, taint tracking against untrusted web content, red-team testing and hash-chained, signed audit receipts | TypeScript, React, Node.js, SQLite, Gemini API |
 | [**Vishwas**](https://github.com/Tanish-Shitanshu/sih2026-forecast-bust-detection) | AI system for NCMRWF (SIH 2026, PS 26079) that flags when a weather forecast is likely to fail badly (a "forecast bust") — LightGBM on historical reforecast data across 33 IMD subdivisions, 0.541 PR-AUC vs a 0.452 forecast-only baseline, catching 74.8% of large-magnitude misses | Python, LightGBM, SHAP, FastAPI |
+| [**Annadata FarmVeda**](https://github.com/Tanish-Shitanshu/Annadata-FarmVeda) *(In Progress)* | Human-in-the-loop AI farming companion — turns live weather data into sowing, irrigation and risk guidance; crop recommendation, climate risk/yield estimates, crop health scanner, AI chat, govt scheme matching, 13-language interface | Python, Streamlit, Gemini AI, SQLite |
+| [**Quantum Shield**](https://github.com/Tanish-Shitanshu/Quantum-Proof-Systems-Scanner-PNB) | Enterprise post-quantum security scanner — TLS inspection, 100-pt PQC scoring, CVE analysis, PDF reports | React 19, FastAPI, Python, Gemini AI |
 | [**MolecureAI**](https://github.com/Tanish-Shitanshu/antibiotic-ai) | Predicts antibacterial activity of compounds against 20 pathogens (MRSA, E. coli, M. tuberculosis) across four screening modes — Random Forest classifiers trained on 29,000 ChEMBL records | React, Flask, scikit-learn, RDKit, ChEMBL |
 | [**Flight Recovery Assistant**](https://github.com/Tanish-Shitanshu/Smart-Flight-Disruption-Recovery-Assistant) | Rule-based recovery engine for cancelled flights — multi-factor ranking, OpenSky API, offline-first | Python, SQLite, Flask, OpenSky API |
 | [**Forensic CoC System**](https://github.com/Tanish-Shitanshu/forensic-coc-system) | Cryptographically linked chain of custody ledger with SHA-256 tamper detection for court admissibility | Python, Streamlit, MySQL, bcrypt |
 | [**PoolMate**](https://github.com/Tanish-Shitanshu/carpool) | Intelligent carpooling with Women Safety Mode, verified-professional travel, and Vibe Match pairing | Python, Multi-layer Auth |
-| [**Annadata FarmVeda**](https://github.com/Tanish-Shitanshu/Annadata-FarmVeda) *(In Progress)* | Human-in-the-loop AI farming companion — turns live weather data into sowing, irrigation and risk guidance; crop recommendation, climate risk/yield estimates, crop health scanner, AI chat, govt scheme matching, 13-language interface | Python, Streamlit, Gemini AI, SQLite |
 
 ---
 
 ### 🏆 Achievements
 
-- 🌏 **Top 10 nationally** — La Trobe × Cisco AI City Modernisation Innovation Sprint 2026 (Australian High Commission)
-- 🥇 **Finalist** — Meta PyTorch OpenEnv Hackathon × Scaler 2026 — Grand Finale (Bangalore) | Top 800 of **31,000+ teams** nationwide
-- 🏅 **Top 10** — Paradox Masters' Union Hackathon, Shiv Nadar Institution of Eminence
-- 🔐 **Top 10** — Punjab National Bank Cyber Security Hackathon 2026
-- 🚀 **Top 15 of 200+** — GoDaddy Airo Buildathon 2026
-- 🏁 **Top 30 of 500+ teams** (1,500+ participants) — GrandPrix 2026 Hackathon; finals held at Paytm office
-- 🤖 **Top 700** — Amazon ML Challenge 2026 *(Ongoing)*
-- 🥈 **2nd Rank (YouTube Star Award)** & **Top 100 in India** — SBI College Youth Ideathon, IIT Delhi 2025
-- 🎓 **2× Dean's List** — 9.83 GPA (Sem 1) & **10.0 GPA** (Sem 2), Manipal University Jaipur
+- 🏆 **People's Choice Winner**: IIT Delhi × Amazon & I4C Raksham AI Cybersecurity Hackathon
+- 🥈 **2nd Place**: Build Arena Hackathon in collaboration with ElevenLabs, AdaL and Serverpod (finals at Microsoft Office, Noida)
+- 🌏 **Top 10 nationally**: La Trobe × Cisco AI City Modernisation Innovation Sprint 2026 (Australian High Commission)
+- 🥇 **Finalist**: Meta PyTorch OpenEnv Hackathon × Scaler 2026, Grand Finale (Bangalore) | Top 800 of **32,000+ teams** nationwide (top 2.5%)
+- 🇮🇳 **2nd Runner-up**: Smart India Hackathon 2026, college round (national round ongoing)
+- 🏅 **Top 10**: Paradox Masters' Union Hackathon, Shiv Nadar University
+- 🔐 **Top 10**: Punjab National Bank Cyber Security Hackathon 2026
+- 🚀 **Top 15 of 200+**: GoDaddy Airo Buildathon 2026
+- 🏁 **Top 30 of 500+ teams** (1,500+ participants): GrandPrix 2026 Hackathon; finals held at Paytm office
+- 🤖 **Top 800**: Amazon ML Challenge 2026
+- 🥈 **2nd Rank (YouTube Star Award)** & **Top 100 in India**: SBI College Youth Ideathon, IIT Delhi 2025
+- 🎓 **2× Dean's List**: 9.83 GPA (Sem 1) & **10.0 GPA** (Sem 2), Manipal University Jaipur
 
 ---
 
@@ -86,10 +95,12 @@ I'm a **3rd Year B.Tech CSE student at Shiv Nadar University** (Delhi NCR), rece
 
 ### 🎖️ Leadership & Community
 
-- 🌐 **Student Ambassador** — Google Student Ambassador Program 2026
-- 💼 **Core Member (Treasurer)** — ACM Club, Shiv Nadar Institution of Eminence
-- 🤖 **Team Head** — ACM SIGAI Student Chapter, Manipal University Jaipur
-- 🏫 **Head Boy** — Delhi Public School, Knowledge Park V, Noida (2022–2024)
+- 🔬 **Industry Research & Outreach Ambassador**: Career Development Centre (CDC), Shiv Nadar University (2026–Present)
+- 🧑‍🏫 **Teaching Assistant**: Computer Organization & Architecture, Shiv Nadar University (Aug 2026–Present); labs and grading for the entire junior batch
+- 🌐 **Student Ambassador**: Google Student Ambassador Program (2026–Present)
+- 💼 **Core Member (Treasurer)**: ACM Club, Shiv Nadar University (until Sep 2026)
+- 🤖 **Team Head**: ACM SIGAI Student Chapter, Manipal University Jaipur
+- 🏫 **Head Boy**: Delhi Public School, Knowledge Park V, Noida (2022–2024)
 
 ---
 
