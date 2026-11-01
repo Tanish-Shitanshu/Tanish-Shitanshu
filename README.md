@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tanish+Shitanshu+%F0%9F%91%8B;Data+%2B+ML+%2B+Full+Stack+Builder;Hackathon+Finalist;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tanish+Shitanshu+%F0%9F%91%8B;Data+%2B+Analytics+%2B+Full+Stack+Builder;9x+Hackathon+Finalist;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -14,13 +14,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a **3rd Year B.Tech CSE student at Shiv Nadar University** (Delhi NCR), recently completed an internship as a **Digital Engineering Intern at Airtel Xtelify**. I build data and ML pipelines, risk and analytics dashboards, and full-stack systems, from pandas and SQL to FastAPI backends and React frontends.
+I'm a **3rd Year B.Tech CSE student at Shiv Nadar University** (Delhi NCR), recently completed an internship as a **Digital Engineering Intern at Airtel Xtelify**. I build data pipelines, risk and analytics dashboards, and full-stack systems, from pandas and SQL to FastAPI backends and React frontends.
 
-- 🎓 **SNU** — B.Tech CSE | CGPA: **9.14** &nbsp;|&nbsp; Previously **MUJ** — CGPA: **9.92**
-- 💼 **Intern @ Airtel Xtelify** — Java, Spring Boot, REST APIs, Git workflows *(Completed)*
+- 💼 **Digital Engineering Intern @ Airtel Xtelify** — Java, Spring Boot, REST APIs, Git workflows *(Completed)*
+- 🎓 **SNU** — B.Tech CSE | CGPA: **9.14**
 - 📈 Building **CrudeCurve**: a WTI futures risk dashboard (term structure, historical-simulation VaR, SQL analysis, Excel reports)
 - 📚 Pursuing **IIT Madras B.S. in Data Science & Applications** (UGC-approved) alongside B.Tech
-- 🌱 Currently deepening: **AWS Cloud Architecting**, Spring Boot backend, agentic AI systems, data and risk analytics (SQL, pandas)
+- 🌱 Currently deepening: Spring Boot backend, agentic AI systems, data and risk analytics (SQL, pandas)
 
 ---
 
@@ -60,7 +60,6 @@ I'm a **3rd Year B.Tech CSE student at Shiv Nadar University** (Delhi NCR), rece
 | [**MolecureAI**](https://github.com/Tanish-Shitanshu/antibiotic-ai) | Predicts antibacterial activity of compounds against 20 pathogens (MRSA, E. coli, M. tuberculosis) across four screening modes — Random Forest classifiers trained on 29,000 ChEMBL records | React, Flask, scikit-learn, RDKit, ChEMBL |
 | [**Flight Recovery Assistant**](https://github.com/Tanish-Shitanshu/Smart-Flight-Disruption-Recovery-Assistant) | Rule-based recovery engine for cancelled flights — multi-factor ranking, OpenSky API, offline-first | Python, SQLite, Flask, OpenSky API |
 | [**Forensic CoC System**](https://github.com/Tanish-Shitanshu/forensic-coc-system) | Cryptographically linked chain of custody ledger with SHA-256 tamper detection for court admissibility | Python, Streamlit, MySQL, bcrypt |
-| [**PoolMate**](https://github.com/Tanish-Shitanshu/carpool) | Intelligent carpooling with Women Safety Mode, verified-professional travel, and Vibe Match pairing | Python, Multi-layer Auth |
 
 ---
 
